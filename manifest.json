@@ -1,0 +1,23 @@
+{
+    "name": "Sistema de Citas",
+    "short_name": "SisCitas",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./images/logol.png",
+            "type": "image/png",
+            "sizes": "265x263"
+        },
+        {
+            "src": "./images/logo.png",
+            "type": "image/png",
+            "sizes": "1058x263"
+        }
+
+    ]
+}
